@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "51795648632",
+    "project_id": "pokedex-7ad0f",
+    "storage_bucket": "pokedex-7ad0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51795648632:android:0a7dbba6ef787bc23f4d8d",
+        "android_client_info": {
+          "package_name": "rios.carlos.minipokedex_rioscarlos"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFmmyBmWwlYBTNn6PK0qF_JKpWZ29gfok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

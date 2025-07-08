@@ -1,0 +1,13 @@
+<!-- res/drawable/bg_type_insecto.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android" android:shape="rectangle">
+    <!-- Color verde típico para tipo insecto -->
+    <solid android:color="#919AA2"/> <!-- Verde "Insecto", puedes ajustar -->
+
+    <!-- Bordes redondeados -->
+    <corners android:radius="8dp"/>
+
+    <!-- Opcional: borde más oscuro -->
+    <stroke
+        android:width="2dp"
+        android:color="#919AA2" />
+</shape>
